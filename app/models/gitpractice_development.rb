@@ -1,0 +1,2 @@
+class GitpracticeDevelopment < ApplicationRecord
+end
